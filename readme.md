@@ -1,2 +1,3 @@
 # git course 
-repositorio para insinar
+repositorio para insinar 
+saiba mais estudeeeeeeeeee
